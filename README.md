@@ -1,5 +1,9 @@
 # terraform-jenkins-eks
 
+## Project Architecture
+
+<img width="945" height="635" alt="image" src="https://github.com/user-attachments/assets/c9902588-f7a4-477a-9d93-5d8cd096f5c2" />
+
 ## Tools used 
   1. GitHub
   2. Jenkins
