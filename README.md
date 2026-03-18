@@ -141,13 +141,10 @@ Move helm.exe into this folder.
 
 ### Add Helm to the System PATH
 
-Open the Start Menu and search for Environment Variables.
-
-Click Edit the system environment variables.
-
-Select Environment Variables.
-
-Under System Variables, select Path and click Edit.
+Open the Start Menu and search for Environment Variables.  
+Click Edit the system environment variables.  
+Select Environment Variables.  
+Under System Variables, select Path and click Edit.  
 
 Click New and add:
 
