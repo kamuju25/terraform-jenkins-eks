@@ -12,7 +12,7 @@ Triggers Jenkins pipelines when changes happen
 `Jenkins (CI/CD Engine)` 
 
 Purpose: Automation  
-Builds your application (Java, etc.)  
+Builds the application (Java, etc.)  
 Runs tests  
 Creates artifacts (like Docker images)  
 Deploys to Kubernetes  
