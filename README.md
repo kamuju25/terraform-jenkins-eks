@@ -23,22 +23,25 @@ On a Windows laptop, open Command Prompt or PowerShell to run the installation c
 ### Start Jenkins:
 Move to the folder where the Jenkins WAR file was downloaded. Then run the following command:
 
+```bash
 java -jar jenkins.war
-
+```
 This command launches Jenkins and it will start running on the default port 8080.
 
 ### Access Jenkins in Browser:
 Open any web browser and enter the following address:
 
+```bash
 http://localhost:8080
-
+```
 When accessing Jenkins for the first time, the setup page will ask you to unlock Jenkins using an administrator password.
 
 ### Retrieve the Administrator Password:
 The password is stored in a file on your system. Jenkins will display the exact path on the screen. Usually, it is located at:
 
+```bash
 C:\Users\<your-username>\.jenkins\secrets\initialAdminPassword
-
+```
 Open this file, copy the password, and paste it into the Jenkins setup page.
 
 ### Complete the Setup Process:
