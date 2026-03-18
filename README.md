@@ -3,7 +3,7 @@ The goal of this setup is to -
 
 What Each Tool Is Responsible for?  
 
-## GitHub  
+### GitHub  
 
 Purpose: Source code management  
 Stores your application code  
