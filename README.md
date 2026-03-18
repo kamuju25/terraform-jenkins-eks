@@ -160,8 +160,9 @@ Open Command Prompt or PowerShell.
 
 Run the command:
 
+```bash
 helm version
-
+```
 If Helm is installed successfully, the terminal will display the Helm version information.
 
 ### Post-Installation Steps
