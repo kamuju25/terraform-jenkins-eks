@@ -1,9 +1,9 @@
 The goal of this setup is to -  
-# Automate application deployment to Kubernetes (EKS) using CI/CD and Infrastructure as Code.  
+## Automate application deployment to Kubernetes (EKS) using CI/CD and Infrastructure as Code.  
 
 What Each Tool Is Responsible for?  
 
-### GitHub  
+`GitHub` 
 
 Purpose: Source code management  
 Stores your application code  
